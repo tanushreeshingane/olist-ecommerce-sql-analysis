@@ -1,6 +1,6 @@
 # OLIST ecommerce project (SQL)
 
-### Project Summary 
+### 🛒 Project Summary 
 Analyzed ~100K+ e-commerce transactions to identify revenue drivers, delivery inefficiencies, and customer behavior patterns using SQL.
 
 ### 📌 Project Overview 
